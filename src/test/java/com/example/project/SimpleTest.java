@@ -1,4 +1,6 @@
 public class SimpleTest {
+	
+	@Test
 	public static void main(String[] args)
 	{
 		try {
